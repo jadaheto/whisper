@@ -1,0 +1,13 @@
+{
+    "name": "antigravity/whisper-transcriber",
+    "description": "Whisper Transcriber with chunked upload support",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
